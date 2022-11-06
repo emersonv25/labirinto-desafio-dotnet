@@ -1,4 +1,4 @@
-## labirinto-desafio-dotnet
+## maze challenge-dotnet
 This project was developed for a job opportunity challenge
 
 ## challenge
